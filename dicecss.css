@@ -44,3 +44,10 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
+h3
+{
+ color:white;
+ position:absolute;
+ left:720px;
+}
